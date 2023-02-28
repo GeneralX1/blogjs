@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "gulp-concat": "~2.4.3",
+    "gulp-concat": "~2.6.1",
     "gulp": "~4.0.0",
     "less": "~2.1.0",
     "gulp-less": "~5.0.0",
