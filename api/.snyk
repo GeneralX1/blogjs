@@ -5,4 +5,8 @@ ignore: {}
 patch:
   'npm:mime:20170907':
     - express > accepts > mime:
+ snyk-fix-f0d3d554f02a096d57b8403c1de15fa7
+        patched: '2023-02-26T15:20:27.981Z'
+
         patched: '2023-02-26T15:22:09.151Z'
+master
